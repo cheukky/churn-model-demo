@@ -8,6 +8,6 @@ jobs:
 
   - job_id: 8df3d6ea-1b3d-4358-a644-bf111ca6173a
     language: python
-    name: score-new-users`
-    entrypoint: score-new-users.py`
-    dependencies: 1a8fd6a8-66c8-4e89-ad9c-703d48aa2d96
+    name: score-new-users
+    entrypoint: "score-new-users.py"
+    dependencies: ["1a8fd6a8-66c8-4e89-ad9c-703d48aa2d96"]
