@@ -4,7 +4,7 @@ jobs:
   - job_id: 1a8fd6a8-66c8-4e89-ad9c-703d48aa2d96
     language: python
     name: build-churn-model
-    entrypoint: "main.py"
+    entrypoint: "build-churn-model.py"
 
   - job_id: 8df3d6ea-1b3d-4358-a644-bf111ca6173a
     language: python
