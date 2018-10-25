@@ -18,7 +18,7 @@ from common.modeling import *
     1. If Cassandra tables don't exist, create them and populate with data.
     2. Grab latest version of features that are in the appropriate table. 
     3. Get raw data associated with these features in the adjacent table.
-    4. Build a predictive model
+    4. Build a predictive model.
     5. Write output data to the appropriate table.
 """
 
